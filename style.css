@@ -1,0 +1,160 @@
+body{
+    background-color: #1097E0;
+    margin: 0;
+}
+
+.header{
+    margin-top: 0;
+    color: white;
+    display: flex;
+}
+
+ul li{
+    display: inline-block;
+    margin-left: 200px;
+    margin-top: 10px;
+    font-size: 20px;
+    color: #7ECB26;
+    color: white;
+    font: bold;
+    transition: all 400ms ;
+}
+
+ul li:hover{
+    color: #7ECB26;
+    transition: all 400ms ;
+    cursor: pointer;
+}
+
+
+
+img{
+    height: 250px;
+}
+
+
+.main h1 {
+    font-style: italic;
+    color: white;
+    text-align: center;
+    font: 35px;
+}
+
+.main h5{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+
+.hero img{
+    height: 400px;
+    margin: 0 0 0 0;
+}
+
+.hero h2{
+    color: white;
+    font-size: 30px;
+}
+
+.hero{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hero h3{
+    color: white;
+}
+
+svg{
+    width: 100%;
+}
+
+.before_benefit{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+}
+.benefits{
+    margin-top: 10px;
+    background-color: white;
+    height: 100%;
+    padding: 10px;
+    display: flex;
+}
+
+.benefits h1{
+    color: black;
+    text-align: center;
+    font-size: 50px;
+}
+
+.container{
+    margin-left: 20px;
+    text-align: center;
+    background-color: #7ECB26;
+    width: 30%;
+    border-radius: 5%;
+}
+.container2{
+    margin-left: 20px;
+    text-align: center;
+    background-color: #1097E0;
+    width: 30%;
+    border-radius: 5%;
+}
+
+.container h2{
+
+    color: white;
+}
+
+.container2 h2{
+
+    color: white;
+}
+
+.container p{
+
+    text-align: center;
+    padding: 10px;
+}
+
+form{
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+form p {
+    color: white;
+}
+
+.form_header{
+    color: white;
+    text-align: center;
+    margin-top: 150px;
+}
+
+input{
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+}
+
+button{
+    border-radius: 10px;
+    padding: 10px;
+    width: 100px;
+    border: none;
+    cursor: pointer;
+}
+
+.reviews p{
+    color: white;
+}
+
+footer{
+    margin-top: 100px;
+    text-align: center;
+    color: white;
+}
